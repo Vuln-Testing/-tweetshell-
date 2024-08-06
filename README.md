@@ -20,7 +20,7 @@ Usage of TweetShell for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/tweetshell
+git clone https://github.com/Vuln-Testing/tweetshell
 cd tweetshell
 chmod +x tweetshell.sh
 sudo ./tweetshell.sh
